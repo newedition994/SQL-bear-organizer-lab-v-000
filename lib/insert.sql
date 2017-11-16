@@ -2,14 +2,14 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Mr.Choco
 
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES("Rowdy", 10, "M", "black", "intense", 1)
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES
 
-INSERT INTO bears(name, age, gender, color, temperament, alive)
+INSERT INTO bears(name, age, gender, color, temperament, alive)VALUES
